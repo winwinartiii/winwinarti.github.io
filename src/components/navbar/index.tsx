@@ -19,7 +19,7 @@ export default function Navbar(): React.ReactElement {
         <header className='px-8 md:px-20 lg:px-24 py-4'>
             <div className="flex flex-row justify-between items-center">
                 <div className='font-semibold text-3xl hover:text-gray-500'>
-                    Alpinnz
+                    Winwinarti
                 </div>
                 <div className='block lg:hidden'>
                     <button
