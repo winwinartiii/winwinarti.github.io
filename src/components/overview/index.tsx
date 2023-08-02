@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../../assets/png/profile.png";
+import profile from "../../assets/png/profile.JPG";
 
 type OverviewItem = {
     title: string,
